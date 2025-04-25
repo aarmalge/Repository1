@@ -1,0 +1,41 @@
+
+
+
+
+Python Notes
+Pythong>Anaconda>Jupyter
+Variables
+Int=10,04,499
+float=3.5,5.8
+Boolean=True,false
+Complex=3+4j
+string="Hi Aarti"
+Artihmatic Operators
++,-,*,/
+Relational operators
+>,<,==,!=
+Logical Operators
+$|
+Python Token (smallest meaningful component in program)
+Keywords,Identifiers,Literals,Operators
+Keywords = True, green,class - you cannot store value in keywork  like a variable
+Identifiers =case sensitve,  first lettter cannot be a digit
+Literals = constants 
+Operators = 
+
+Functions 
+len(string)
+string.lower()
+string.upper()
+string[3]
+string[7:3]
+string.replace('a','d')
+string.count('hi")=to check how many times substring is repeated
+string.find('hi')= to fine index number of string
+
+
+**Python Notes*
+""
+adding \n to add another line of code
+
+
